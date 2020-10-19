@@ -51,12 +51,16 @@ Despite removing the ninth grade scores from Thomas High School, the school stil
 
 ### Summary by School Type 
 **Summary by school type with complete data**
+
 ![Summary School Type 1](/images/by_school_type_no.jpg)
+
 **Summary by school type with omission of Thomas High School ninth graders**
+
 ![Summary School Type 2](/images/by_school_type_ths.jpg)
+
 - Similarly, scores and percentages were not affected by the omission of scores. Again, the effects of this omission in this disaggreation of data is difficult to see, especially when metrics are rounded to the tenth place or nearest whole number.
 
+## Summary of Major Changes in Analysis
+1. **Changes in significant digits:** Because the analysis process was inconsistent between the two levels, there were many differences in number of significant digits displayed for both the average scores and percentages. 
 
-
-
-
+2. **No average math or reading score could be calculated for Thomas High School's ninth graders:** As seen in the average scores by grade and school, the average scores for 9th grade in Thomas High School could not be calculated when the data was omitted from the sample. 
