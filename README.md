@@ -20,4 +20,16 @@ School summary with omission of Thomas High School ninth graders
 ### Performance Comparison 
 Despite removing the ninth grade scores from Thomas High School, the school still remains the second top performing school of the sample. 
 
-### Math and Reading Scores by Grade 
+### Math Average Scores by Grades
+School summary of math average scores with complete data
+![School Summary Math Scores 1](/images/grade_summary_math_no.jpg)
+School summary of math average scores with omission of Thomas High School ninth graders
+![School Summary Math Scores 2](/images/grade_summary_math_ths.jpg)
+- Since the ninth grade scores from Thomas High School have been removed from the sample, the difference between the averages is that there is no average for ninth grade for Thomas High School. 
+
+### Reading Average Scores by Grades
+School summary of reading average scores with complete data
+![School Summary Reading Scores 1](/images/grade_summary_reading_no.jpg)
+School summary of reading average scores with omission of Thomas High School ninth graders
+![School Summary Reading Scores 2](/images/grade_summary_reading_ths.jpg)
+- Since the ninth grade scores from Thomas High School have been removed from the sample, the difference between the averages is that there is no average for ninth grade for Thomas High School. 
